@@ -1,0 +1,20 @@
+/*
+ * Retjilp configuration file.
+ * 
+ * Change this to reflect your setup, and put it in ~/.retjilp
+ */
+{
+	/*
+	 * Consumer key and secret.
+	 * Get this by registering a new (desktop) application at 
+	 * http://twitter.com/apps
+	 */
+	"consumer_key": "putkeyhere",
+	"consumer_secret": "putsecrethere",
+
+	/*
+	 * The strings that a tweet should be matched against.
+	 * These strings are matched in lower case.
+	 */
+	"match": ["#smoketotweet", "#infinatewaffles"]
+}

@@ -1,11 +1,9 @@
 Tweet-to-Smoke
 ==============
-
 We turn tweets into fog machine smoke signals.
 
-Purpose
+How it Works
 -------
-
 Our Red Bull Creation project's aim is to provide a means to connect one of the newest forms of human mass-communication (Twitter) with the oldest (smoke signals).  Our team, the Triad, was made up of a mix of different skill sets and talents which came in handy when dealing with both JSON parsing and fog machine smoke shaping.  It boils down to a few steps:
 
 ### Twitter Parsing
